@@ -1,4 +1,6 @@
 public with sharing class Spoonacular {
+
+
     private static final String RECEIPE_API = 'https://api.spoonacular.com';
     private static final String API_KEY = '63189889161647eead6059b376341ed2';
 
